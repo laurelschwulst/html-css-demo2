@@ -1,0 +1,74 @@
+body {
+    margin: 1em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: blue;
+}
+
+figure {
+    margin: 0;
+}
+
+figure.medium {
+    max-width: 800px;
+}
+
+figcaption {
+    font-size: 0.75em;
+}
+
+nav ul,
+nav li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 2em 0 2.5em;
+}
+
+nav#buttons a {
+    display: block;
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 5em 2.5em;
+    margin: 0.5em 0;
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1em;
+    background: blue;
+    color: white;
+    padding: 0.1em 0.25em;
+}
+
+.about,
+footer {
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+}
+
+footer {
+    margin-top: 2.5em;
+}
