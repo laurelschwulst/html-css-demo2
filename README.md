@@ -1,4 +1,4 @@
-# Demo 2 — Multi-Page Site with Big Links / Buttons
+# Demo 2 — Multi-Page Site with Big Buttons
 
 A simple, multi-page HTML & CSS website that uses generously sized links to navigate to subpages. Good for a portfolio or simple site with multiple pieces of content that should be separated.
 
